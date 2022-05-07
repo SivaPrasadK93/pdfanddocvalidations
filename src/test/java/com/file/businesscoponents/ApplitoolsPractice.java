@@ -51,7 +51,7 @@ public class ApplitoolsPractice {
 	    }*/
 
 	    // Set your personal Applitols API Key from your environment variables.
-	    eyes.setApiKey("jyuaP4Vo105d5lVJaA0iTxv4UPVe108cnm5GzV4XnZgfS1088110");
+	    eyes.setApiKey("jyuaP4Vo105d5lVJaA0iTxv4UPVe108cnm5GzV4XnZgfS108811019931027");
 
 	    // set batch name
 	    eyes.setBatch(batch);
